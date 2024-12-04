@@ -1,0 +1,74 @@
+Q1: Which of the given testing levels is focused primarily on building confidence rather than finding defects?
+Answer: Acceptance Testing
+
+Explanation: Acceptance testing is typically conducted to build confidence in the system's ability to meet the business and user requirements, ensuring it is ready for release.
+
+Q2: Which of the given statements is most suitable for assessing the scope of maintenance testing?
+Answer: Scope is linked to the risk, size of the system under test, and extent of the changes done.
+
+Explanation: Maintenance testing often depends on risk assessment, system size, and the changes made, as these factors influence the depth and breadth of testing required.
+
+Q3: Which test principle does the scenario describe?
+Answer: Defect clustering.
+
+Explanation: The principle of defect clustering suggests that most defects are concentrated in a few areas, leading the test lead to prioritize testing specific screens.
+
+Q4: Which characteristics should a tester possess to successfully work with a project team?
+Answer: Efficient communication skills and good observation skills.
+
+Explanation: Effective communication is critical for collaborating with team members, and observation skills are necessary to identify subtle defects and inconsistencies.
+
+Q5: Select the correct order for test case design activities.
+Answer: C-A-D-B
+
+Explanation: Analyze requirements (C), identify test design techniques (A), specify expected results (D), and determine execution order (B).
+
+Q6: What type of non-functional testing ensures software is easy to analyze and modify?
+Answer: Maintainability.
+
+Explanation: Maintainability testing evaluates how easy it is to maintain, enhance, or correct the software.
+
+Q7: Which scenario requires maintenance testing?
+Answer: A component of an existing software application is removed.
+
+Explanation: Maintenance testing is triggered by changes, such as modifications, deletions, or updates to software components.
+
+Q8: Which statements about maintenance testing are true?
+Answer: (i) & (iii).
+
+Explanation: Maintenance testing involves regression testing, re-testing, and impact analysis to address scope-related challenges.
+
+Q9: Which level of testing aligns with the stated exit criterion?
+Answer: System testing.
+
+Explanation: System testing validates the complete system against defined requirements, often requiring resolution of critical defects before exit.
+
+Q10: What does 90% statement coverage mean?
+Answer: Nine out of ten statements were exercised by this set of tests.
+
+Explanation: Statement coverage measures the proportion of code statements executed by the test cases.
+
+Q11: Features of good testing in SDLC models include:
+Answer: Testers should be associated with document reviews early, and each test level should have specific objectives.
+
+Explanation: Early involvement and clear objectives improve test effectiveness and align testing with project goals.
+
+Q12: Which testing technique identifies missed test cases?
+Answer: Experience-based.
+
+Explanation: Experience-based techniques rely on intuition and expertise to uncover gaps in formal testing.
+
+Q13: Which tasks are considered as part of a tester's role?
+Answer: Prepare and collect test data, implement and execute tests, and create test design specifications.
+
+Explanation: These tasks align with a tester’s responsibilities throughout the testing process.
+
+Q14: An important feature of regression testing test cases is:
+Answer: They can be reused for multiple releases with very little maintenance.
+
+Explanation: Well-designed regression test cases are adaptable and efficient across software iterations.
+
+Q15: Valid objectives of testing include:
+Answer: To find defects, to gain confidence in the quality level, and to prevent defects.
+
+Explanation: Testing aims to uncover defects, ensure quality, and prevent issues through early detection and corrective actions.
